@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CS371p Spring 2016: Tipparat Umrod</title>
+    <description>Computer Science | Computational Biology Class of 2016 | University of Texas at Austin
+</description>
+    <link>http://tumrod.github.io/blog-cs371p/blog/cs371p/</link>
+    <atom:link href="http://tumrod.github.io/blog-cs371p/blog/cs371p/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 24 Jan 2016 21:18:35 -0600</pubDate>
+    <lastBuildDate>Sun, 24 Jan 2016 21:18:35 -0600</lastBuildDate>
+    <generator>Jekyll v2.5.3</generator>
+    
+      <item>
+        <title>Week1: Hello World!</title>
+        <description>&lt;p&gt;Hello World,&lt;/p&gt;
+
+&lt;p&gt;I started off my first blog with “Hello World” because of two reasons: 1) the blog is published to the world; 2) generally it is the first thing we learned when we first programmed. &lt;/p&gt;
+
+&lt;p&gt;On the first day of class, I felt overwhelming yet challenging by the amount of tools we have to learn within this 9-week class. Without knowing it, the first week passed by quickly and we already touched on &lt;code&gt;Mocha&lt;/code&gt;, &lt;code&gt;UnitTest&lt;/code&gt;, &lt;code&gt;Istanbul&lt;/code&gt;, &lt;code&gt;Coverage&lt;/code&gt;, &lt;code&gt;Travis CI&lt;/code&gt;, and &lt;code&gt;PyDoc&lt;/code&gt;. Though I have never used majority of these tools before, I started to incorporate them with my personal projects. I really like how the class is very practical that once I got home from the class, I can play with my new tools and toys that improve my codes.&lt;/p&gt;
+
+&lt;p&gt;Despite the fact that I got a little bit nervous when professor Downing called me out in class this week, I learned to be more confident in my answer. In addition, I began to like how he called people out in class since it keeps everyone engaging and participating. It created a learning environment where everybody has to pay attention and to follow the train of thought at all time. &lt;/p&gt;
+
+&lt;p&gt;I have been using &lt;code&gt;Python 2.7&lt;/code&gt; for 3 years and now it is time for me to distinguish between &lt;code&gt;Python-2&lt;/code&gt; and &lt;code&gt;Python-3&lt;/code&gt;. I found this &lt;a href=&quot;http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/promotions/python/python2python3.pdf&quot;&gt;cheat sheet&lt;/a&gt; useful whenever I get a syntax error or an exception. &lt;/p&gt;
+
+&lt;p&gt;TravisCI is a continuous integration tool used to test the project. I have never used it before. In order to connect the private github repository with TravisCI, you have to go to &lt;a href=&quot;https://magnum.travis-ci.com/&quot;&gt;https://magnum.travis-ci.com/&lt;/a&gt; instead of &lt;a href=&quot;https://travis-ci.org/profile/&quot;&gt;https://travis-ci.org/profile/&lt;/a&gt;. I have gone through the struggle of successfully build at travis-ci because of this &lt;code&gt;sudo: setuid root&lt;/code&gt; error. This error occurs because the sudo access has turned off on TravisCI Docker side for student package. The fix is very simple by adding this &lt;code&gt;sudo: required&lt;/code&gt; to &lt;code&gt;.travis.yml&lt;/code&gt; file. I read the information about this error from &lt;a href=&quot;https://github.com/travis-ci/travis-ci/issues/2862&quot;&gt;travis-ci issue&lt;/a&gt; and &lt;a href=&quot;http://stackoverflow.com/questions/26299552/travis-sudo-is-disabled&quot;&gt;stackoverflow&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Even though it is only the first week of class, I have learned many practical things. Time really flies fast. In the end, I really think this class will be a worthwile experience for me. Thanks for reading!&lt;/p&gt;
+
+&lt;h2 id=&quot;tips-of-the-week&quot;&gt;tips-of-the-week&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf&quot;&gt;learn git with this cheat sheet&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-text&quot; data-lang=&quot;text&quot;&gt;$ git status
+$ git add -A . #this will add all of the tracked and untracked files
+$ git commit -m &amp;quot;commit message&amp;quot;
+$ git push origin branch_name&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/promotions/python/python2python3.pdf&quot;&gt;Python-2 VS Python-3 cheat sheet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Add &lt;code&gt;sudo: required&lt;/code&gt; to &lt;code&gt;.travis.yml&lt;/code&gt; when you have &lt;code&gt;sudo: setuid root&lt;/code&gt; error because of the student package limitation&lt;/li&gt;
+  &lt;li&gt;If you already hosted your website using &lt;code&gt;&amp;lt;username&amp;gt;.github.io&lt;/code&gt;, you can make a new repository for your blog and create a &lt;code&gt;gh-pages&lt;/code&gt; branch to have your own blog hosting separately from your actual website. In addition, you can also create a github page for your project by doing the same thing! &lt;a href=&quot;https://help.github.com/articles/creating-project-pages-manually/&quot;&gt;Here’s how!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 14 Jun 2015 11:37:16 -0500</pubDate>
+        <link>http://tumrod.github.io/blog-cs371p/blog/cs371p/posts/2015/06/14/week-1.html</link>
+        <guid isPermaLink="true">http://tumrod.github.io/blog-cs371p/blog/cs371p/posts/2015/06/14/week-1.html</guid>
+        
+        
+        <category>posts</category>
+        
+      </item>
+    
+  </channel>
+</rss>
