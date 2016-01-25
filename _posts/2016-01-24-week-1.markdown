@@ -6,26 +6,18 @@ categories: posts
 ---
 Hello World,
 
+Last week was the first week of my last semester at UT. I had Professor Downing for my Software Engineering class last year. I really like the way he teaches. I learned a lot of things in that class, like different tools and technology. Therefore, I decided to take Object Oriented Programming with him this semester. In addition, in order to become a better software developer, I better get the foundation of programming: OOP down rigidly. Furthermore, learning C++ and different testing tools will enhance my coding qualities.
 
+##This Past Week
+I had installed some of the tools on my laptop. Here are the tools: g++, gcov, gprof, doxygen, and Google Test. In my opinion, the development process is the same concept we learned in Software Engineering, for example, run harness and test harness, and unit test. The differences are the tools we used.
 
-##tips-of-the-week
+##Obstacles
+I attempted to install all of the tools on my laptop prior to the first day of class. I got most of the tools down on my mac with `brew`. However, I am still struggling with gprof. I searched up online. It seems like `Instruments` is the tool to use for profiling C++ on mac. I am still looking around for a better answer. If I cannot get all of the tools installed, I will just have to ssh into the CS machine since all of the requirement tools are already installed.
 
-* [learn git with this cheat sheet][gh-cheat]
+##Plan for Next Week
+My plan for next week would be working on Collatz project. Then, update my resume/portfolio website.
 
-{% highlight text %}
-
-$ adding code
-
-{% endhighlight %}
-
-* [Python-2 VS Python-3 cheat sheet][py2py3]
-* Add `sudo: required` to `.travis.yml` when you have `sudo: setuid root` error because of the student package limitation
-* If you already hosted your website using `<username>.github.io`, you can make a new repository for your blog and create a `gh-pages` branch to have your own blog hosting separately from your actual website. In addition, you can also create a github page for your project by doing the same thing! [Here's how!][gh]
-
-[travis1]: https://magnum.travis-ci.com/
-[travis2]: https://travis-ci.org/profile/
-[gh-cheat]: https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
-[py2py3]: http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/promotions/python/python2python3.pdf
-[issue]: https://github.com/travis-ci/travis-ci/issues/2862
-[stack]: http://stackoverflow.com/questions/26299552/travis-sudo-is-disabled
-[gh]: https://help.github.com/articles/creating-project-pages-manually/
+##tip-of-the-week
+I found an interesting YouTube video about C++ tip and I think sharing with y'all might be helpful. 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Vy3DvF8nibA/0.jpg)](http://www.youtube.com/watch?v=Vy3DvF8nibA)
+P.S. The rubber ducky method is actually what I did too and it actually works! By asking questions and talking through the code out loud make me realized where my mistake is.
