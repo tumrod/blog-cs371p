@@ -6,8 +6,8 @@
 </description>
     <link>http://tumrod.github.io/blog-cs371p/blog-cs371p/</link>
     <atom:link href="http://tumrod.github.io/blog-cs371p/blog-cs371p/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 25 Jan 2016 01:01:45 -0600</pubDate>
-    <lastBuildDate>Mon, 25 Jan 2016 01:01:45 -0600</lastBuildDate>
+    <pubDate>Mon, 25 Jan 2016 01:02:50 -0600</pubDate>
+    <lastBuildDate>Mon, 25 Jan 2016 01:02:50 -0600</lastBuildDate>
     <generator>Jekyll v2.5.3</generator>
     
       <item>
@@ -27,8 +27,9 @@
 
 &lt;h2 id=&quot;tip-of-the-week&quot;&gt;tip-of-the-week&lt;/h2&gt;
 &lt;p&gt;I found an interesting YouTube video about C++ tip and I think sharing with y’all might be helpful. 
-&lt;a href=&quot;http://www.youtube.com/watch?v=Vy3DvF8nibA&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/Vy3DvF8nibA/0.jpg&quot; alt=&quot;IMAGE ALT TEXT HERE&quot; /&gt;&lt;/a&gt;
-P.S. The rubber ducky method is actually what I did too and it actually works! By asking questions and talking through the code out loud make me realized where my mistake is.&lt;/p&gt;
+&lt;a href=&quot;http://www.youtube.com/watch?v=Vy3DvF8nibA&quot;&gt;&lt;img src=&quot;http://img.youtube.com/vi/Vy3DvF8nibA/0.jpg&quot; alt=&quot;IMAGE ALT TEXT HERE&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;P.S. The rubber ducky method is actually what I did too and it actually works! By asking questions and talking through the code out loud make me realized where my mistake is.&lt;/p&gt;
 </description>
         <pubDate>Sun, 24 Jan 2016 04:37:16 -0600</pubDate>
         <link>http://tumrod.github.io/blog-cs371p/blog-cs371p/posts/2016/01/24/week-1.html</link>
