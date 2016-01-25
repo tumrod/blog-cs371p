@@ -4,7 +4,7 @@ email: tipparat.umrod[at]utexas[dot]edu
 description: > # this means to ignore newlines until "baseurl:"
   Computer Science | Computational Biology
   Class of 2016 | University of Texas at Austin
-baseurl: "/blog/cs371p" # the subpath of your site, e.g. /blog/
+baseurl: "/blog" # the subpath of your site, e.g. /blog/
 url: "http://tumrod.github.io/blog-cs371p" # the base hostname & protocol for your site
 twitter_username: tipptong
 github_username:  tumrod
