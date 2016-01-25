@@ -1,0 +1,31 @@
+---
+layout: post
+title:  "Week1: Let OOP begins"
+date:   2016-01-24 10:37:16
+categories: posts
+---
+Hello World,
+
+
+
+##tips-of-the-week
+
+* [learn git with this cheat sheet][gh-cheat]
+
+{% highlight text %}
+
+$ adding code
+
+{% endhighlight %}
+
+* [Python-2 VS Python-3 cheat sheet][py2py3]
+* Add `sudo: required` to `.travis.yml` when you have `sudo: setuid root` error because of the student package limitation
+* If you already hosted your website using `<username>.github.io`, you can make a new repository for your blog and create a `gh-pages` branch to have your own blog hosting separately from your actual website. In addition, you can also create a github page for your project by doing the same thing! [Here's how!][gh]
+
+[travis1]: https://magnum.travis-ci.com/
+[travis2]: https://travis-ci.org/profile/
+[gh-cheat]: https://training.github.com/kit/downloads/github-git-cheat-sheet.pdf
+[py2py3]: http://ptgmedia.pearsoncmg.com/imprint_downloads/informit/promotions/python/python2python3.pdf
+[issue]: https://github.com/travis-ci/travis-ci/issues/2862
+[stack]: http://stackoverflow.com/questions/26299552/travis-sudo-is-disabled
+[gh]: https://help.github.com/articles/creating-project-pages-manually/
